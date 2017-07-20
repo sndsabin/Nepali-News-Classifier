@@ -32,4 +32,4 @@ This '16NepaliNews' corpus is licensed under [GPLv3](https://www.gnu.org/license
 ## Author
 [sndsabin](https://twitter.com/sndsabin)
 
-#### This Corpus was developed by parsing and scrapping contents published from 2015 of different online news portals. All the news contents belong to their respective owners. 
+#### This Corpus was developed by parsing and scrapping contents published from 2015 on different online news portals. All the news contents belong to their respective owners. 
