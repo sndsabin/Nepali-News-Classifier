@@ -1,5 +1,7 @@
 # 16NepaliNews Corpus
-The 16 Nepali News data set is a collection of approximately 14,364 Nepali language news documents, partitioned (unevenly) across 16 different newsgroup: Auto, Bank, Blog, Business Interview, Economy, Employment, Entertainment, Interview, Literature, National News, Opinion, Sports, Technology, Tourism, and World. 
+The '16 Nepali News' data set is a collection of approximately 14,364 Nepali language news documents, partitioned (unevenly) across 16 different newsgroup: Auto, Bank, Blog, Business Interview, Economy, Employment, Entertainment, Interview, Literature, National News, Opinion, Sports, Technology, Tourism, and World. 
+
+This '16 Nepali News' data set was inspired from [20 newsgroups](http://people.csail.mit.edu/jrennie/20Newsgroups) dataset
 
 ## Loading the Corpus
 ```python
