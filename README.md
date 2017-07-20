@@ -24,4 +24,4 @@ yTest = news.target[splitSize:]
 
 ```
 
-## This Corpus was developed by parsing and scrapping contents published from 2015 of different online news portals. All the news contents ## belong to their respective owners. 
+## This Corpus was developed by parsing and scrapping contents published from 2015 of different online news portals. All the news contents belong to their respective owners. 
