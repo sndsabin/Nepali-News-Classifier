@@ -25,6 +25,8 @@ yTrain = news.target[:splitSize]
 yTest = news.target[splitSize:]
 
 ```
+## Executing the code
+Before execution, copy the file 'nepali' to the stop words directory of your nltk-data/corpora folder.
 
 ## License
 This '16NepaliNews' corpus is licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
